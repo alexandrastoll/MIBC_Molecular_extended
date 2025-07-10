@@ -1,7 +1,11 @@
 ### modified and adapted from: https://www.kaggle.com/code/zznznb/wsi-train
 
 ### original publication ABMIL: https://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf
+### official implementation ABMIL: https://github.com/AMLab-Amsterdam/AttentionDeepMIL
+
 ### original publication DSMIL: https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dual-Stream_Multiple_Instance_Learning_Network_for_Whole_Slide_Image_Classification_CVPR_2021_paper.pdf
+### official implementation DSMIL: https://github.com/binli123/dsmil-wsi
+
 
 import torch
 import torch.nn as nn
