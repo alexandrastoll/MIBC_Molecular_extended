@@ -1,4 +1,4 @@
-# MIBC Molecular Extended
+# MIBC Molecular extended
 
 Code for extended experiments for doctoral thesis of Alexandra Stoll:
 
