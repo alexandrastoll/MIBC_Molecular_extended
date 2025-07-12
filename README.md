@@ -9,5 +9,7 @@ Link to UNI2-h model used for feature extraction: https://huggingface.co/Mahmood
 Link to kaggle notebook which was modified and used for model and training loop implementation (with Apache 2.0 License): https://www.kaggle.com/code/zznznb/wsi-train
 
 Original code implementations of used MIL models:
+
 ABMIL: https://github.com/AMLab-Amsterdam/AttentionDeepMIL
+
 DSMIL: https://github.com/binli123/dsmil-wsi
