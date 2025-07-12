@@ -6,7 +6,7 @@ Includes training Multiple Instance Learning (MIL) models using a 5-fold cross-v
 
 Link to UNI2-h model used for feature extraction: https://huggingface.co/MahmoodLab/UNI2-h
 
-Link to modified kaggle notebook for model and training loop implementation (with Apache 2.0 License): https://www.kaggle.com/code/zznznb/wsi-train
+Link to kaggle notebook which was modified and used for model and training loop implementation (with Apache 2.0 License): https://www.kaggle.com/code/zznznb/wsi-train
 
 Original code implementations of used MIL models:
 ABMIL: https://github.com/AMLab-Amsterdam/AttentionDeepMIL
