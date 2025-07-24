@@ -1,6 +1,6 @@
 # MIBC Molecular extended
 
-Code for extended experiments for doctoral thesis of Alexandra Stoll:
+Code for extended experiments for doctoral thesis of Alexandra Stoll currently under review:
 
 Includes training Multiple Instance Learning (MIL) models using a 5-fold cross-validation on top of pre-extracted feature embeddings from UNI2-h for molecular subtype prediction in muscle-invasive urothelial bladder cancer.
 
